@@ -24,7 +24,7 @@ public class Ratel extends Mammal{
 
     @Override
     public void move() {
-        System.out.println("Медоед поспешает не спеша");
+        System.out.println("Медоед не спешит");
     }
     public  void bolt(){
         System.out.println("Медоед кладёт на всех");
