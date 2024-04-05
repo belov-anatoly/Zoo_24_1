@@ -27,7 +27,7 @@ public class Racoon extends Mammal{
     public void move() {
         run();
     }
-
+//
     public void run()
     {
         System.out.println("енот бежит");
