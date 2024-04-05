@@ -9,3 +9,5 @@ public class Viper extends Animal
 
     }
 }
+//TODO
+//расширить функционал
