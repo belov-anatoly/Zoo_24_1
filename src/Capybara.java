@@ -4,6 +4,7 @@ public class Capybara extends Mammal{
         super(weight);
     }
 
+
     @Override
     public void move() {
         System.out.println("капибара бежит");
