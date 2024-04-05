@@ -19,9 +19,9 @@ public class Tapir extends Mammal {
             speed=40;
         this.speed = speed;
     }
-}
 
+    @Override
+    public void move() {
 
-
-
+    }
 }
